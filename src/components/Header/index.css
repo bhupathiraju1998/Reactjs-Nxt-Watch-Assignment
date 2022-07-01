@@ -1,0 +1,44 @@
+.navbar-bg-dark {
+  background-color: #0f0f0f;
+}
+
+.navbar-bg-light {
+  background-color: #ffffff;
+}
+
+.header-icon-bg-light {
+  color: #ffffff;
+}
+
+.header-icon-bg-dark {
+  color: #0f0f0f;
+}
+
+.header-icon {
+  width: 20px;
+  height: 20px;
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+  .header-icon {
+    width: 25px;
+    height: 25px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .header-icon {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  width: 100vw;
+  height: 100vh;
+  border: 1px solid red;
+}

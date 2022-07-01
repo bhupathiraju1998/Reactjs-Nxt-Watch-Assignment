@@ -1,0 +1,32 @@
+.active-item-bg-color {
+  background-color: #cbd5e1;
+}
+
+.inactive-item-bg-color {
+  background-color: #f9f9f9;
+}
+
+.active-icon {
+  color: #ff0000;
+}
+
+.light-icon {
+  color: #424242;
+}
+
+.active-menu-item {
+  font-weight: bold;
+  color: #383838;
+}
+
+.menu-item-dark {
+  color: #f1f1f1;
+}
+
+.menu-item-light {
+  color: #383838;
+}
+
+.link {
+  text-decoration: none;
+}

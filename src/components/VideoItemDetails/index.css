@@ -1,0 +1,23 @@
+.dot-icon {
+  color: #909090;
+}
+
+.icon {
+  color: #909090;
+  margin: 10px;
+  width: 20px;
+  height: 20px;
+}
+
+.hr-line {
+  color: #424242;
+  width: 100%;
+}
+
+.color-btn {
+  color: #2563eb;
+}
+
+.dark-text {
+  color: #64748b;
+}

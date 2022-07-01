@@ -1,0 +1,26 @@
+.close-banner {
+  display: none;
+}
+
+.banner-bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: cover;
+  padding: 10px;
+  height: 40vh;
+}
+
+.bg-light {
+  background-color: #f9f9f9;
+}
+
+.bg-dark {
+  background-color: #181818;
+}
+
+.no-search-light {
+  color: #f4f4f4;
+}
+
+.no-search-dark {
+  color: #1e293b;
+}
